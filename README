@@ -1,0 +1,37 @@
+ INFO
+------------------------------------------------------------
+
+Tools created to help streamline tasks within the Flash IDE.
+Info about each command: http://blog.tomorrowevening.com/tag/jsfl/
+
+
+ INSTALL
+------------------------------------------------------------
+
+- Replace "[Version]" with whatever Flash version you're using
+- Extract files to designated areas
+- Restart Flash IDE
+
+
+* Windows Vista™:
+boot drive\Users\username\Local Settings\Application Data\Adobe\Flash [Version]\language\Configuration\
+
+* Windows® XP:
+boot drive\Documents and Settings\username\Local Settings\Application Data\Adobe\Flash [Version]\language\Configuration\
+
+* Mac OS® X:
+Macintosh HD/Users/username/Library/Application Support/Adobe/Flash [Version]/language/Configuration/
+
+
+More info about JSFL here: http://help.adobe.com/en_US/Flash/10.0_ExtendingFlash/WS5b3ccc516d4fbf351e63e3d118a9024f3f-7fe8.html
+
+
+
+ COPYRIGHT
+------------------------------------------------------------
+
+This work is licensed under the Creative Commons Attribution 3.0 United States License. To view a copy of 
+this license, visit http://creativecommons.org/licenses/by/3.0/us/ or send a letter to Creative Commons, 
+171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+Copyright (c) 2011 Colin Duffy, http://www.tomorrowevening.com/
