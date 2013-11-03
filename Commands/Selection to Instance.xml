@@ -1,0 +1,29 @@
+<dialog buttons="accept,cancel" title="New Instances">
+
+	<!--  Layer Properties  -->
+	<label value="Symbol Type" control="_type" />
+	<menulist id="_type">
+		<menuitem label="Graphic" value="_graphic" />
+		<menuitem label="MovieClip" value="_mc" />
+	</menulist>
+
+	<!--  Alignment  -->
+	<label value="Alignment" control="_align" />
+	<menulist id="_align">
+		<menuitem label="Top Left" value="tl" />
+		<menuitem label="Top Center" value="tc" />
+		<menuitem label="Top Right" value="tr" />
+		<menuitem label="Center Left" value="cl" />
+		<menuitem label="Center" value="cc" />
+		<menuitem label="Center Right" value="cr" />
+		<menuitem label="Bottom Left" value="bl" />
+		<menuitem label="Bottom Center" value="bc" />
+		<menuitem label="Bottom Right" value="br" />
+	</menulist>
+	
+	<!--  Naming  -->
+	<label value="Prefix" control="_prefix" />
+	<textbox maxlength="" multiline="false" value="" id="_prefix" /> 
+	<label value="Suffix" control="_suffix" />
+	<textbox maxlength="" multiline="false" value="" id="_suffix" />
+</dialog>
